@@ -7,8 +7,8 @@ export const profile = {
   github: "https://github.com/ANIKET-YADAV679",
   linkedin: "https://www.linkedin.com/in/aniket-yadav-030797379",
   leetcode: "https://leetcode.com/u/Aniket_Yadav_679/",
-  bio: "I’m a CSE student who enjoys turning ideas into working projects, learning by building, and strengthening my problem-solving skills through code.",
-  about: "I’m currently pursuing B.Tech in Computer Science & Engineering (Core) at Chandigarh University, Unnao Campus. I like learning the fundamentals, applying them to practical projects, and improving each project as I learn more.",
+  bio: "I'm a CSE student who enjoys turning ideas into working projects, learning by building, and strengthening my problem-solving skills through code.",
+  about: "I'm currently pursuing B.Tech in Computer Science & Engineering (Core) at Chandigarh University, Unnao Campus. I like learning the fundamentals, applying them to practical projects, and improving each project as I learn more.",
   philosophy: "Learn the fundamentals. Build something real. Solve the problems that appear. Repeat.",
 };
 

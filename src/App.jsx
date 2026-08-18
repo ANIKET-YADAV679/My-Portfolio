@@ -43,7 +43,7 @@ function App() {
   const projectSlug = path.startsWith("/projects/") ? path.split("/")[2] : null;
 
   if (projectSlug) {
-    return <ProjectDetail slug={projectSlug} navigate={navigate} />;
+    return <ProjectDetail slug={projectSlug} navigate={navigate} />
   }
 
   return (
