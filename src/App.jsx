@@ -1,4 +1,4 @@
-import react from react;
+import React from "react";
 import { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
